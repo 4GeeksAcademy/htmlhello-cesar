@@ -1,0 +1,41 @@
+.post{
+    width:100%;
+    
+}
+
+.icon-izda{
+    padding-top: 30px;
+    
+}
+h2,a{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    
+}
+
+.icon-dcha{
+    padding-top:30px;
+    padding-left: 47%;
+}
+.post-img{
+    margin-left: 28%;
+}
+.post-header{
+    display:flex;
+    margin-left: 28%;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+}
+.post-icons{
+    display:flex;
+    margin-left:28%;
+}
+.icon-3{
+    margin-right: 42%;
+}
+.post-body{
+    padding-left:28%;
+    padding-right:28%;
+    font-family: Roboto;
+}
