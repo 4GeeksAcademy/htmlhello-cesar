@@ -15,10 +15,12 @@ h2,a{
 
 .icon-dcha{
     padding-top:30px;
-    padding-left: 60%;
+    padding-left: 46%;
 }
-.post-img{
+img{
     margin-left: 28%;
+    width:800px;
+    
 }
 .post-header{
     display:flex;
@@ -40,5 +42,5 @@ h2,a{
     font-family: Roboto;
 }
 .icon-dch2{
-    padding-left: 12%;
+    padding-left:-20%;
 }
